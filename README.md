@@ -18,7 +18,6 @@ Developed an interactive Business Intelligence (BI) dashboard to transform raw t
 4. **Interactive Geographical Filter:** A dynamic Slicer for countries allowing stakeholders to drill down into specific regional performance with a single click.
 
 ## 📸 Dashboard Preview
-*(Tip: Take a screenshot of your dashboard, upload it to GitHub, and paste the image link here)*
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0a066ac-4a58-4bd3-a71c-51f21ce97647" />
 
 
